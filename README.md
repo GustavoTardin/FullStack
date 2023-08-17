@@ -1,30 +1,41 @@
+# Projeto de Entrega de Cerveja 🍻
 
-Introdução
-Este projeto possui o objetivo principal de criar uma aplicação completa de delivery de cerveja, incluindo frontend e backend, com os objetivos gerais de firmar conhecimentos em nodeJS com Sequelize, React, MySQL e desenvolvimento em time.
+Bem-vindo(a) ao nosso emocionante projeto de entrega de cerveja! Aqui, estamos mergulhando de cabeça na criação de uma aplicação completa de delivery de cerveja, abrangendo tanto o frontend quanto o backend. Nossos objetivos vão além de apenas código - estamos unindo conhecimentos em Node.js com Sequelize, React, MySQL e a arte de desenvolver em equipe.
 
-Análise técnica
-Descrição do ambiente técnico
-O sistema é composto de um backend. Linguagem, frameworks e bibliotecas principais utilizadas para a criação:
+## Análise Técnica 🖥️
 
-Back-End
-javascript nodejs express sequelize mysql
+### Descrição do Ambiente Técnico
 
-Front-End
-javascript react MUI axios
+Nosso ecossistema gira em torno de um backend robusto. Utilizamos as seguintes linguagens, frameworks e bibliotecas principais:
 
-Requisitos Funcionais
-Respeitando a proposta, o sistema deverá atender os seguintes requisitos:
+**Back-End**
+- JavaScript
+- Node.js
+- Express
+- Sequelize
+- MySQL
 
-RF1 - Ter acesso via login;
-RF2 - Fazer a comunicação entre clientes e pessoas vendedoras;
-RF3 - Se a pessoa cliente faz o pedido, o mesmo deve aparecer para a pessoa vendedora em seu dash de pedidos após a atualização da página.
-Finais
-📝 Objetivos de Aprendizado
+**Front-End**
+- JavaScript
+- React
+- Material-UI (MUI)
+- Axios
 
-Construir uma aplicação completa com frontend e backend;
+## Requisitos Funcionais 📜
 
-Trabalhar em equipe;
+Mantendo o foco na proposta, nosso sistema tem a missão de cumprir os seguintes requisitos:
 
-Metodologias ágeis;
+1. **RF1** - Garantir acesso seguro por meio de login;
+2. **RF2** - Facilitar a comunicação entre nossos clientes e nossos valorosos vendedores;
+3. **RF3** - Após um cliente fazer um pedido, o mesmo deve aparecer imediatamente no painel de pedidos do vendedor após atualização da página.
 
-Colocar em prática todas as stacks já aprendidas até hoje;
+## Conclusão e Objetivos 📝
+
+Nossa jornada é pautada em aprendizado contínuo e crescimento mútuo. Aqui estão alguns dos nossos principais objetivos:
+
+- 🏗️ Construir uma aplicação completa, abraçando frontend e backend;
+- 👥 Trabalhar em equipe e crescer juntos;
+- 🚀 Explorar metodologias ágeis para um desenvolvimento mais eficaz;
+- 📚 Colocar em prática as diversas stacks que aprendemos até hoje.
+
+Junte-se a nós nessa aventura empolgante, onde tecnologia e cerveja se encontram em perfeita harmonia! 🎉🍻
